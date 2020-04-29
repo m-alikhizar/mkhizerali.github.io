@@ -1,8 +1,9 @@
 {
   "name": "mkhizer-github-io",
-  "author": "me"
+  "author": "me",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mkhizerali.github.io",
   "dependencies": {
     "material-ui": "^0.18.6",
     "prop-types": "^15.5.10",
