@@ -1,9 +1,9 @@
 {
-  "name": "mkhizer-github-io",
+  "name": "mkhizer.github.io",
   "author": "me",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mkhizerali.github.io",
+  "homepage": "https://mkhizerali.github.io/",
   "dependencies": {
     "gh-pages": "^2.2.0",
     "material-ui": "^0.18.6",
